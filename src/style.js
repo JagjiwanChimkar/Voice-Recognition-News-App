@@ -73,4 +73,5 @@ export default makeStyles((theme) => ({
       height: '35vmin',
     },
   },
+  
 }));

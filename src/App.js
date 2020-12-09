@@ -4,6 +4,7 @@ import { Typography } from '@material-ui/core';
 import wordsToNumbers from 'words-to-numbers';
 import NewsCards from './components/NewsCards/NewsCards';
 import useStyles from './style';
+import './app.css';
 
 const alanKey= '6178734f7eade17275a128d00552281f2e956eca572e1d8b807a3e2338fdd0dc/stage';  
 const App=()=> {
