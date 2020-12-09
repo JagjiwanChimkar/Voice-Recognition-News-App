@@ -48,7 +48,7 @@ const NewsCard = ({article: { description, publishedAt, title, source, url, urlT
             {source.name}
           </Typography>
         </div>
-        <Typography className={classes.title} gutterButton variant="h5">
+        <Typography className={classes.title} gutterButton variant="body1">
           {title}
         </Typography>
         <CardContent>

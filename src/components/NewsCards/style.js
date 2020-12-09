@@ -13,6 +13,7 @@ export default makeStyles({
         color: 'white',
       },
       infoCard: {
+        
         display: 'flex', flexDirection: 'column', textAlign: 'center',
       },
     container:{
