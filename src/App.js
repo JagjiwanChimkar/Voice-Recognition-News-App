@@ -40,7 +40,7 @@ const App=()=> {
     return (
         <>
         <div>
-            <h1 style={{textAlign : 'center'}}>Voice Recognition News App</h1>
+            <h1 style={{textAlign : 'center'}}>Voice-Recognition News-App</h1>
             <div className={classes.logoContainer}>
                 <img src="https://alan.app/voice/images/previews/preview.jpg" className={classes.alanLogo} alt="alan-logo"/>
             </div>
