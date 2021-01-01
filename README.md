@@ -2,7 +2,7 @@
 
 
 
-![Voice Controlled React News Application](https://i.ibb.co/PwrHH0S/Screenshot-59.png)
+![Voice Controlled React News Application](https://i.ibb.co/Xx2DrB8/Screenshot-59.png)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
