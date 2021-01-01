@@ -4,8 +4,13 @@
 
 ![Voice Controlled React News Application](https://i.ibb.co/gb0RktT/Screenshot-75.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## About Project
 
-In this video, we're going to build a Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it. We'll do it together in this video and afterward, you'll be able to create your own voice-controlled apps.  
+Build a Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows to add voice capabilities to your applications. It allows to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it.
+
+## Tech Used
+
+1.ReactJS Library
+2.AlanAI Platform
+3.Material-UI 
 
