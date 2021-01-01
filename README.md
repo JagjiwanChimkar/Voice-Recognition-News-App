@@ -1,6 +1,6 @@
 # Voice Controlled React News Application - Alan AI Voice Assistant
 
-
+[I'm an inline-style link](https://newsappbyjagjiwan.netlify.app/)
 
 ![Voice Controlled React News Application](https://i.ibb.co/gb0RktT/Screenshot-75.png)
 
