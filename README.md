@@ -2,7 +2,7 @@
 
 ### Deployed on Netlify,[Click-Here](https://newsappbyjagjiwan.netlify.app/)
 
-![Voice Controlled React News Application](https://i.ibb.co/gb0RktT/Screenshot-75.png {width=40px height=400px})
+![Voice Controlled React News Application](https://i.ibb.co/gb0RktT/Screenshot-75.png = 250x250)
 
 ## About Project
 
