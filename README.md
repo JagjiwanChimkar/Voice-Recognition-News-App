@@ -10,7 +10,7 @@ Build a Conversational Voice Controlled React News Application using Alan AI. Al
 
 ## Tech Used
 
-1.ReactJS Library
-2.AlanAI Platform
-3.Material-UI 
+..* ReactJS Library
+..* AlanAI Platform
+..* Material-UI 
 
