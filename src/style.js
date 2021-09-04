@@ -54,7 +54,7 @@ export default makeStyles((theme) => ({
     },
   },
   logoContainer: {
-    padding: '0 5%',
+    padding: '0 8%',
     display: 'flex',
     justifyContent: 'space-around',
     alignItems: 'center',
@@ -68,10 +68,13 @@ export default makeStyles((theme) => ({
     height: '27vmin',
     borderRadius: '18%',
     padding: '0 5%',
-    margin: '3% 0',
+    margin: '2% 0',
     [theme.breakpoints.down('sm')]: {
       height: '35vmin',
     },
   },
+  newsApiLogo:{
+    height:'14vmin'
+  }
   
 }));

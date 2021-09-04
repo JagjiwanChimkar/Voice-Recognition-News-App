@@ -43,11 +43,18 @@ const App = () => {
       <div>
         <h1 style={{ textAlign: "center" }}>Voice-Recognition News-App</h1>
         <div className={classes.logoContainer}>
+          
           <img
-            src="https://alan.app/voice/images/previews/preview.jpg"
+            src="https://alan.app/brand_assets/logo-horizontal/color/alan-logo-horizontal-color.png"
             className={classes.alanLogo}
             alt="alan-logo"
           />
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ITjavEszl2e4vHRW1ODFgCSTxKLfnVg1YA&usqp=CAU"
+            className={classes.newsApiLogo}
+            alt="alan-logo"
+          />
+          
         </div>
         <NewsCards articles={newsArticles} activeArticle={activeArticle} />
       </div>
